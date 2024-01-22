@@ -28,6 +28,7 @@ header p {
 }
 
 main {
+    margin-top: 62px;
     display: grid;
     grid-template-columns: repeat(3, 370px);
     gap: 48px 60px;
